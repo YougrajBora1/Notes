@@ -1,1 +1,1 @@
-<a>https://yougraj.github.io/Notes//</a>
+<a>https://yougraj.github.io/Notes/</a>
